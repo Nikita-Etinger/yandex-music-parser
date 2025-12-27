@@ -17,3 +17,5 @@
 - Поддержка всех типов плейлистов Яндекс.Музыки
 - Асинхронная работа
 - Автоматическая очистка временных файлов
+## Теги:
+yandex-music, telegram-bot, python, selenium, parser, music-downloader, playlist-export
