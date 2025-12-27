@@ -18,4 +18,4 @@
 - Асинхронная работа
 - Автоматическая очистка временных файлов
 ## Теги:
-yandex-music, telegram-bot, python, selenium, parser, music-downloader, playlist-export
+yandex-music, telegram-bot, python, selenium, parser, playlist-export
